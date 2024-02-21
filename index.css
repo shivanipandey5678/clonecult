@@ -5,6 +5,7 @@ body{
     overflow-x: hidden;
 }
 .background{
+    background-color: rgb(26, 26, 63);
     position: absolute;
     top: 0;
     left: 0;
