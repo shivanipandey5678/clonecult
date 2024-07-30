@@ -1,18 +1,16 @@
+# Cult Fit Clone
 
----
+This is the very first project of my life, a clone of the Cult Fit website. This static website includes working Home, Lab, and Care pages, designed primarily for larger viewports. The site features a little scroll animation and is built using plain HTML and CSS.
 
-<h1> Cult.fit Clone Project</h1>
+## Features
+- Home, Lab, and Care pages
+- Static website design
+- Optimized for larger viewports
+- Basic scroll animations
 
+## Technologies Used
+- HTML
+- CSS
 
-
-<h2> Overview</h2>
-
-<p>This repository contains a clone of the Cult.fit website created using HTML, CSS, and a touch of JavaScript. The project is part of a learning journey to enhance web development skills. Cult.fit is a fitness and wellness platform, and this clone aims to replicate some of its features and design.</p>
-<h2> Technologies Used</h2>
-<ul>
-  <li> HTML</li>
-   <li>CSS</li>
-   <li> JavaScriptL</li>
-</ul>
-
-
+## Notes
+- The website is not responsive and is best viewed on larger screens.
